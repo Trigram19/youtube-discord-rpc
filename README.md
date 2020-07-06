@@ -2,7 +2,7 @@
 Discord rich presence for youtube cause why not 😂
 
 ![alt text](https://i.imgur.com/drspFFT.png)
-
+[![Run on Repl.it](https://repl.it/badge/github/Trigram19/youtube-discord-rpc)](https://repl.it/github/Trigram19/youtube-discord-rpc)
 # Getting started
 ``` 
 > git clone https://github.com/imfunniee/youtube-discord-rpc.git
